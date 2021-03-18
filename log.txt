@@ -1,0 +1,6 @@
+Error: Exophone F1 não está ligado
+Info: Exophone F1 está conectado
+Error: Exophone F1 já está conectado
+Error: Exophone F1 já está conectado
+Error: Exophone F1 não está ligado
+Error: Exophone F1 não está conectado
